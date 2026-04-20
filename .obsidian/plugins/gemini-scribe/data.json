@@ -3,7 +3,7 @@
   "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
-  "imageModelName": "gemini-3.1-pro-preview",
+  "imageModelName": "gemini-3.1-flash-image-preview",
   "summaryFrontmatterKey": "summary",
   "userName": "User",
   "chatHistory": false,
