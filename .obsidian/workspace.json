@@ -263,8 +263,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8aa59fe99fb8b6cc",
+  "active": "928bdf0c428d2a35",
   "lastOpenFiles": [
+    "gemini-scribe/Skills",
+    "gemini-scribe/Agent-Sessions",
     "藥物數據與決策價值.md",
     "仁寶workshop.md",
     "歡迎.md",
@@ -273,9 +275,7 @@
     "藥品痛點與機會.md",
     "gemini-scribe/desktop.ini",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Skills",
     "gemini-scribe/Prompts",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
     "藥物數據與決策價值"
   ]
