@@ -414,6 +414,24 @@
         "thinking": true
       },
       {
+        "name": "models/gemini-3.1-flash-tts-preview",
+        "version": "3.1-flash-tts-preview",
+        "displayName": "Gemini 3.1 Flash TTS Preview",
+        "description": "Gemini 3.1 Flash TTS Preview",
+        "inputTokenLimit": 8192,
+        "outputTokenLimit": 16384,
+        "supportedGenerationMethods": [
+          "generateContent",
+          "countTokens",
+          "batchGenerateContent"
+        ],
+        "temperature": 1,
+        "topP": 0.95,
+        "topK": 64,
+        "maxTemperature": 2,
+        "thinking": true
+      },
+      {
         "name": "models/gemini-robotics-er-1.5-preview",
         "version": "1.5-preview",
         "displayName": "Gemini Robotics-ER 1.5 Preview",
@@ -467,7 +485,7 @@
         "thinking": true
       }
     ],
-    "lastUpdated": 1776230424883,
+    "lastUpdated": 1776651686084,
     "success": true
   }
 }
